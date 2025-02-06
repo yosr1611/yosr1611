@@ -1,9 +1,9 @@
 ## Hi there :wave:
-My name is yosr bibi. I am a -----
+My name is yosr bibi. I am a computer science student
 
-- :telescope: I’m currently working----
-- :seedling: I’m currently learning -----
--  :mailbox: How to reach me:------
+- :telescope: I’m currently working ----
+- :seedling: I’m currently learning ----
+-  :mailbox: How to reach me: yosrbibi1@gmail.com
    
 ## :bar_chart: GitHub Stats
 ![Yosr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosr1611&show_icons=true&theme=radical)
